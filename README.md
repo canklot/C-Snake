@@ -3,7 +3,7 @@ Snake game written in C
 
 To compile and run please do the following
 
- Install dependencies 
+  - Install dependencies 
  ```
  sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
