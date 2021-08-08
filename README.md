@@ -1,2 +1,2 @@
 # FundamentalsOfProgramming2Project
-Homework
+Snake game written in C
