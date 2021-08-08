@@ -7,11 +7,11 @@ To compile and run please do the following
  ```
  sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
- To compile
+  - To compile
  ```
  gcc snake.c -lncurses -o snake
 ```
- To run
+  - To run
  ```
  ./snake
 
